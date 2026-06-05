@@ -2,7 +2,7 @@ name: Retrain Breast Cancer Model
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "master"]
   workflow_dispatch:
 
 jobs:
