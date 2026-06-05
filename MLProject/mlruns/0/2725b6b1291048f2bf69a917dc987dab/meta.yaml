@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ryan/Downloads/Membangun%20Sistem%20Machine%20Learning/Workflow-CI/MLProject/mlruns/0/2725b6b1291048f2bf69a917dc987dab/artifacts
+end_time: 1780671701014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2725b6b1291048f2bf69a917dc987dab
+run_name: upset-kite-791
+run_uuid: 2725b6b1291048f2bf69a917dc987dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780671700968
+status: 4
+tags: []
+user_id: ryan

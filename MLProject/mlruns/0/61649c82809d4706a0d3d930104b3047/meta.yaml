@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ryan/Downloads/Membangun%20Sistem%20Machine%20Learning/Workflow-CI/MLProject/mlruns/0/61649c82809d4706a0d3d930104b3047/artifacts
+end_time: 1780671782804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61649c82809d4706a0d3d930104b3047
+run_name: exultant-gnu-201
+run_uuid: 61649c82809d4706a0d3d930104b3047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780671774221
+status: 3
+tags: []
+user_id: ryan

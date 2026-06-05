@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ryan/Downloads/Membangun%20Sistem%20Machine%20Learning/Workflow-CI/MLProject/mlruns/0/702dcd9d7de64654a6f2f8c4375cd61f/artifacts
+end_time: 1780671759005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 702dcd9d7de64654a6f2f8c4375cd61f
+run_name: skittish-stoat-700
+run_uuid: 702dcd9d7de64654a6f2f8c4375cd61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780671753245
+status: 4
+tags: []
+user_id: ryan

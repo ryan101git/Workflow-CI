@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ryan/Downloads/Membangun%20Sistem%20Machine%20Learning/Workflow-CI/MLProject/mlruns/236126123215338533
+creation_time: 1780671722070
+experiment_id: '236126123215338533'
+last_update_time: 1780671722070
+lifecycle_stage: active
+name: breast_cancer_basic_autolog
